@@ -1,0 +1,14 @@
+/*Conceptos facturacion*/
+.sgFactura tr.sg-row i {
+  display: none;
+}
+.sgFactura tr.sg-row:hover {
+  background: #edfaff;
+}
+.sgFactura tr.sg-row:hover i {
+  display: inline-block;
+}
+.sgFactura tr.sg-row i:hover {
+  color: #1d82ac;
+  cursor: pointer;
+}
